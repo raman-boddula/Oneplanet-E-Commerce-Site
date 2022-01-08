@@ -1,6 +1,5 @@
 # Oneplanet-E-Commerce-Site
-# Meesho
-This is dynamic website which is developed by using the javascript and css and html.It has both aspects to sell the products you have and buy the products you like.
+This is a basic website which is developed by using the javascript and css and html.Its has set of products with different categories.It is a responsive webpage.
 
 ## Screenshots
 ## Homepage 
