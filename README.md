@@ -27,7 +27,7 @@ Prerequisites
 - VS Code
   Installation
 - Clone the repository
-  Git Clone - https://github.com/raman-boddula/Meesho
+  Git Clone - https://github.com/raman-boddula/Oneplanet-E-Commerce-Site
 
 
 ## Authors
